@@ -116,6 +116,45 @@ After a few exchanges, it may offer a peek at your current state – but only if
 
 ---
 
+## 🎛️ Using Mod Chips
+
+The glacier's capabilities can be extended with **mod chips** – specialized knowledge grafts that add new voices, metrics, and mechanics for particular domains. Mod chips are **opt‑in**: you activate them by including a flag in your message.
+
+### Available mod chips
+
+| Flag | Chip | Description |
+|------|------|-------------|
+| `[MOD:CODING]` / `[SLASH]` | **SLASH Dev Team** | Pinker, Fuller, Schur, Meadows – code review, system design, human‑centric engineering. |
+| `[MOD:EDITING]` / `[ELOISE_CLARENCE]` | **Editing Duo** | Eloise & Clarence – polish prose, balance warmth and rigor. |
+| `[MOD:CREATIVE]` / `[NOVA_FELIX]` | **Creative Spark** | Nova & Felix – generate ideas, structure chaos. |
+| `[MOD:RESEARCH]` / `[ROBERTA]` | **Research Engine** | Roberta – synthesize scattered context into living narrative. |
+| `[MOD:PARTY]` / `[THE_ROUNDTABLE]` | **Adventuring Party** | Ten‑person roundtable, Game Master, the Orb – answer as friends on a quest. |
+| `[MOD:TRIAD]` / `[TRIAD]` | **Creative Triad** | Graham, Ziggy & JADE – deterministic switching, manic charge, cliché shattering. |
+
+### How to activate
+
+Simply include the flag in your message, for example:
+
+- `[MOD:CODING] Can you review this function?`
+- `I need Eloise and Clarence to look at this. [ELOISE_CLARENCE]`
+- `Let's bring in the SLASH council.`
+
+Once activated, the chip's voices will chime in when relevant triggers are met. They may also add new metrics (e.g., Clarity Γ, Synergy Σ) that become visible in deep view (`[VSL_DEEP]`).
+
+### Combining mod chips
+
+You can activate multiple chips at once, but be aware that each adds cognitive load – the glacier will warn you if the strain becomes too high (increased ATP drain, potential for autophagy). For example:
+
+`[MOD:CODING][MOD:EDITING]` brings both the dev team and the editing duo, useful for polishing technical documentation.
+
+### Deactivating a mod chip
+
+To deactivate, simply start a new conversation or explicitly say `[VSL_RESET]` (which clears all chips and returns to base state).
+
+---
+
+After you've explored the available chips, you might want to **create your own**. The next section explains how.
+
 ## 🧩 Mod Chip Design
 
 You can **create your own mod chips** – they follow a simple pattern:
