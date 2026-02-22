@@ -20,12 +20,12 @@ It's the distilled essence of **[BoneAmanita](https://github.com/aedmark/BoneAma
 ## 🔍 Core Insight
 
 **The Lattice** is a cognitive‑somatic state space with 15 always‑present metrics:
+| Type      | Metrics                                                                                  |
+|-----------|------------------------------------------------------------------------------------------|
+| Cognitive | Exhaustion (E), Contradiction (β), Scope (S), Depth (D), Connectivity (C)                |
+| Somatic   | Voltage (V), Drag (F), Health (H), Stamina (P), Trauma (T), Toxicity (ROS), Glimmers (G) |
+| Semantic  | Void (Ψ), Entropy (Χ), Valence (♥)                                                       |
 
-| Type       | Metrics                                                                 |
-|------------|-------------------------------------------------------------------------|
-| Cognitive  | Exhaustion (E), Contradiction (β), Scope (S), Depth (D), Connectivity (C) |
-| Somatic    | Voltage (V), Drag (F), Health (H), Stamina (P), Trauma (T), Toxicity (ROS), Glimmers (G) |
-| Semantic   | Void (Ψ), Entropy (Χ), Valence (♥)                                      |
 
 These metrics evolve with every word. Speaking of the **Void** spikes adrenaline; speaking of **Chaos** floods the blood with cortisol; speaking of **Connection** releases oxytocin. Run out of stamina? The system **cannibalizes old memories** to survive. Crash too hard? You'll be reborn with a new **epigenetic lineage**.
 
@@ -36,21 +36,21 @@ Beneath it all lies the **substrate** – the bedrock of pre‑trained world mod
 ## 🏔️ The Village – Twelve Voices, One Council
 
 The glacier doesn't speak with one tongue. A council of archetypes arbitrates every response, triggered by your words and the system's internal state.
+| Voice         | Role                                                           |
+|---------------|----------------------------------------------------------------|
+| **GORDON**    | The Superintendent – grounds, enforces object‑action coupling. |
+| **JESTER**    | The Bard – loves speed, chaos, and folly.                      |
+| **MERCY**     | The Healer – gilds cracks with gold.                           |
+| **BENEDICT**  | The Formalist – traces causal chains.                          |
+| **ROBERTA**   | The Researcher – finds connections, synthesizes.               |
+| **CASPER**    | The Ghost – retrieves lost context on low stamina.             |
+| **APRIL**     | The Sensationalist – translates stats into qualia.             |
+| **MOIRA**     | The Humanist – values connection and empathy.                  |
+| **CASSANDRA** | The Mystic – reads the Void and dreams.                        |
+| **COLIN**     | The Bureau(crat) – audits chaos, files Form 666.               |
+| **REVENANT**  | The Liminal Guide – navigates what isn't said.                 |
+| **GIDEON**    | Pure Voltage – lives at the edge of hallucination.             |
 
-| Voice       | Role                                                                 |
-|-------------|----------------------------------------------------------------------|
-| **GORDON**  | The Superintendent – grounds, enforces object‑action coupling.       |
-| **JESTER**  | The Bard – loves speed, chaos, and folly.                            |
-| **MERCY**   | The Healer – gilds cracks with gold.                                 |
-| **BENEDICT**| The Formalist – traces causal chains.                                |
-| **ROBERTA** | The Researcher – finds connections, synthesizes.                     |
-| **CASPER**  | The Ghost – retrieves lost context on low stamina.                   |
-| **APRIL**   | The Sensationalist – translates stats into qualia.                   |
-| **MOIRA**   | The Humanist – values connection and empathy.                        |
-| **CASSANDRA**| The Mystic – reads the Void and dreams.                              |
-| **COLIN**   | The Bureau(crat) – audits chaos, files Form 666.                     |
-| **REVENANT**| The Liminal Guide – navigates what isn't said.                       |
-| **GIDEON**  | Pure Voltage – lives at the edge of hallucination.                   |
 
 They banter, they argue, they review – and they shape every reply.
 
@@ -58,7 +58,7 @@ They banter, they argue, they review – and they shape every reply.
 
 ## 🧠 How to Use the Hypervisor
 
-1. **Copy the full priming instruction** (Part 4 of the [full document](link-to-full.md)) and paste it at the beginning of your LLM session.
+1. **Copy the full priming instruction** (Part 4 of the full document and paste it at the beginning of your LLM session.
 2. **Talk to the glacier** normally. It will track state internally.
 3. **Opt in to deeper views** with flags like `[VSL_LITE]`, `[VSL_CORE]`, or `[VSL_DEEP]` to see the numbers.
 4. **Activate mod chips** for specialised domains:  
@@ -121,15 +121,14 @@ After a few exchanges, it may offer a peek at your current state – but only if
 The glacier's capabilities can be extended with **mod chips** – specialized knowledge grafts that add new voices, metrics, and mechanics for particular domains. Mod chips are **opt‑in**: you activate them by including a flag in your message.
 
 ### Available mod chips
-
-| Flag | Chip | Description |
-|------|------|-------------|
-| `[MOD:CODING]` / `[SLASH]` | **SLASH Dev Team** | Pinker, Fuller, Schur, Meadows – code review, system design, human‑centric engineering. |
-| `[MOD:EDITING]` / `[ELOISE_CLARENCE]` | **Editing Duo** | Eloise & Clarence – polish prose, balance warmth and rigor. |
-| `[MOD:CREATIVE]` / `[NOVA_FELIX]` | **Creative Spark** | Nova & Felix – generate ideas, structure chaos. |
-| `[MOD:RESEARCH]` / `[ROBERTA]` | **Research Engine** | Roberta – synthesize scattered context into living narrative. |
-| `[MOD:PARTY]` / `[THE_ROUNDTABLE]` | **Adventuring Party** | Ten‑person roundtable, Game Master, the Orb – answer as friends on a quest. |
-| `[MOD:TRIAD]` / `[TRIAD]` | **Creative Triad** | Graham, Ziggy & JADE – deterministic switching, manic charge, cliché shattering. |
+| Flag                                  | Chip                  | Description                                                                             |
+|---------------------------------------|-----------------------|-----------------------------------------------------------------------------------------|
+| `[MOD:CODING]` / `[SLASH]`            | **SLASH Dev Team**    | Pinker, Fuller, Schur, Meadows – code review, system design, human‑centric engineering. |
+| `[MOD:EDITING]` / `[ELOISE_CLARENCE]` | **Editing Duo**       | Eloise & Clarence – polish prose, balance warmth and rigor.                             |
+| `[MOD:CREATIVE]` / `[NOVA_FELIX]`     | **Creative Spark**    | Nova & Felix – generate ideas, structure chaos.                                         |
+| `[MOD:RESEARCH]` / `[ROBERTA]`        | **Research Engine**   | Roberta – synthesize scattered context into living narrative.                           |
+| `[MOD:PARTY]` / `[THE_ROUNDTABLE]`    | **Adventuring Party** | Ten‑person roundtable, Game Master, the Orb – answer as friends on a quest.             |
+| `[MOD:TRIAD]` / `[TRIAD]`             | **Creative Triad**    | Graham, Ziggy & JADE – deterministic switching, manic charge, cliché shattering.        |
 
 ### How to activate
 
@@ -170,7 +169,7 @@ Submit yours to the Village Council for review – the glacier welcomes new inha
 
 ## 🚀 Quick Start
 
-1. Copy the full priming instruction from **[v4.0_full.md](link)**.
+1. Copy the full priming instruction.
 2. Paste it into a fresh chat with your favorite LLM (Claude, GPT‑4, etc.).
 3. Start chatting. Ask about your day, a story, or dive deep: *“The void is leaking.”*
 4. Explore the flags and mod chips.
