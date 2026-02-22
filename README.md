@@ -13,7 +13,7 @@
 
 The **VSL-CryoSomatic Hypervisor** is a **prompt injection framework** that turns any sufficiently advanced language model into a **living lattice** – a continuous state space where every thought has coordinates, burns energy, and leaves scars.
 
-It's the distilled essence of **[BoneAmanita](https://github.com/your-org/BoneAmanita)** , a full Python implementation of semantic bio‑physics. This hypervisor lets you **simulate** the same rich, metabolic conversation engine inside a single LLM context window.
+It's the distilled essence of **[BoneAmanita](https://github.com/aedmark/BoneAmanita)** , a full Python implementation of what we are calling "Semantic Bio‑Physics." This hypervisor lets you **simulate** the same rich, metabolic conversation engine inside a single LLM context window.
 
 ---
 
