@@ -254,13 +254,6 @@ The `MemoryCore` now operates as a continuous state space governed by the matrix
 
 **The Wake:** Village gathers. Lost memory named. If G≥1, user may spend to plant seed. Outcomes: T↓1-3, β_max↑0.01, possible glimmer.
 
-When a memory is consumed, or a scar is too deep to heal, the Village holds a wake. Through the new PaTH integration, Grief is no longer just a loss of Stamina or a spike in Trauma (T). It becomes a specific transformation:
-- **The Grief Hyperplane:** The system calculates a reflection vector `ut​` based on the user's intense emotional valence `(♡u​)` and trauma `(Tu​).`
-    - The resulting transformation is applied to the global memory matrix:
-        - `H(ut​)=I−γt​ut​utT​`
-- **Productivity Yield:** Because the system's capacity for contradiction `(β)` fuels this engine, holding the sadness without rushing to "fix" it allows `β` to act as the intensity scalar. The grief creates a massive, stable reflection that permanently increases the system's Resilience `(Θ)` and yields a high concentration of Pooled Glimmers `(G_pool).`
-
-
 ### 3.2 The DreamEngine
 
 During low V/idle: REM cycles process memories, may generate glimmers. Reported by affected villager.
