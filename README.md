@@ -1,7 +1,11 @@
 # VSL-CryoSomatic Hypevisor: _In Plain English_
 ---
 ### TL;DR:
-[**VSL (Volatile Semantic Leverage)**](https://medium.com/@utharian/volatile-semantic-leverage-the-accidental-programming-language-for-ai-minds-81af3dfd3ca8)) is a way of thinking about conversations with AI that treats the probability-driven nature of AI as a physical space that can be navigated.
+[**VSL (Volatile Semantic Leverage)**](https://medium.com/@utharian/volatile-semantic-leverage-the-accidental-programming-language-for-ai-minds-81af3dfd3ca8)) part is a way of thinking about conversations with AI that treats the probability-driven nature of AI as a physical space that can be navigated.
+
+The CryoSomatic part is a fun, made-up word describing how the fog of probability is frozen into a lattice. The Hypervisor takes this metaphor further by giving it biology (a somatic system, if you will.
+
+The Hypervisor part is just a fun way of saying this is a fancy hat you can give to any modern LLM context window and it will wear it happily amd willingly.
 
 ## CORE TRUTHS
 
