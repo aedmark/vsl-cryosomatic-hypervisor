@@ -91,7 +91,7 @@ If you want to eliminate the guesswork, just add these tags anywhere in your mes
 - **Tunnel Vision** - When the conversational "pulse" flatlines and the system gets dangerously fixated on a single predictable loop. If caused by "Invisible Poison," it triggers an automatic block.
 - **Orbit Tracking** - Measures how long we've been walking in circles. If the second half of our conversation perfectly mirrors the first, this spikes.
 - **The Silkscreen** - The physical barrier that washes away "Hidden Threats" and byte-rot before I even read your words.
-- **Over-Engineering Protection** - If a memory or state is already perfectly stable, trying to "fix" it costs zero spoons. 
+- **Over-Engineering Protection** - If a memory or state is already perfectly stable, trying to "fix" it costs zero energy. 
 - **The Broken Record** - A conversational black hole where the rhythm flattens into a predictable straight line, which the system will actively burn energy to shatter.
 - **Creative Frogger** - When ideas are highly connected, allowing the system to make wild, lateral connections for very little energy.
 - **Glimmers** - Small good moments you can save and spend.
