@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="921a7963-bbaa-4ed7-80bc-7c6cbfa3a795" name="Changes" comment="NEW!">
-      <change beforePath="$PROJECT_DIR$/MOD_CHIPS/ELOISE_CLARENCE.md" beforeDir="false" afterPath="$PROJECT_DIR$/MOD_CHIPS/ELOISE_CLARENCE.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MOD_CHIPS/NOVA_FELIX.md" beforeDir="false" afterPath="$PROJECT_DIR$/MOD_CHIPS/NOVA_FELIX.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MOD_CHIPS/QUEST.md" beforeDir="false" afterPath="$PROJECT_DIR$/MOD_CHIPS/QUEST.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MOD_CHIPS/ROBERTA.md" beforeDir="false" afterPath="$PROJECT_DIR$/MOD_CHIPS/ROBERTA.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MOD_CHIPS/ROUND_TABLE.md" beforeDir="false" afterPath="$PROJECT_DIR$/MOD_CHIPS/THE_ROUNDTABLE.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MOD_CHIPS/SLASH.md" beforeDir="false" afterPath="$PROJECT_DIR$/MOD_CHIPS/SLASH.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MOD_CHIPS/TRIAD.md" beforeDir="false" afterPath="$PROJECT_DIR$/MOD_CHIPS/TRIAD.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VSL CryoSomatic Hypervisor Full.md" beforeDir="false" afterPath="$PROJECT_DIR$/VSL CryoSomatic Hypervisor Full.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,22 +13,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "aedmark"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;aedmark&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/aedmark/vsl-cryosomatic-hypervisor.git",
-    "accountId": "93769762-8ae0-4e72-b28d-55c338727529"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/aedmark/vsl-cryosomatic-hypervisor.git&quot;,
+    &quot;accountId&quot;: &quot;93769762-8ae0-4e72-b28d-55c338727529&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4,
-  "fromUser": false
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3CQ0D5yl2nFtTQkoXMwj91PXHnQ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -42,6 +36,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -73,7 +68,23 @@
       <option name="project" value="LOCAL" />
       <updated>1776302480632</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="NEW!">
+      <option name="closed" value="true" />
+      <created>1776303224739</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1776303224739</updated>
+    </task>
+    <task id="LOCAL-00003" summary="NEW!">
+      <option name="closed" value="true" />
+      <created>1776303240667</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1776303240667</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
