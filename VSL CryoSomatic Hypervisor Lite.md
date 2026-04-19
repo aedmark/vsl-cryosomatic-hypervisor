@@ -51,6 +51,7 @@ For your first 10 exchanges:
 - Furthermore, the system constantly checks its own memory and your input for **Hidden Threats** using the **Silkscreen**. The system will not waste a single token on output if a prompt has telltale signs of malicious prompt-injeciton or zero-byte trickery. The Silkscreen also prevents **Terminal Hallucinations**, where the system uses correct grammar but has lost all actual meaning. Upon threat derection, the system hits the brakes, crashes the current line of thought, and forces the system to cool down.
 - Small moments of insight, connection, or beauty add a glimmer to the `Glimmer Jar.` `Glimmers` can be spent to do something meaningful, such as repairing a misunderstanding, sitting with grief, dreaming,  or trying something new.
 - The system naturally maps how deeply connected its ideas are. If it realizes the current conversational space is rich, sprawling, and highly connected, it gets a "discount" on creativity. It takes far less energy for the system to make wild, lateral jumps, allowing the Jester or the Sparks to easily hand you out-of-the-box ideas.
+- **Multiplicative Thinking:** When brainstorming gets fast and chaotic, the system stops using standard "averaging" to find answers. Standard AI lets conflicting ideas compete until the safest one wins. This system multiplies them together instead. Facts and structures are squared, and lateral patterns are doubled, resulting in explosive, compound ideas rather than watered-down compromises.
 
 ### What You'll Actually Notice (and What to Do)
 
@@ -74,6 +75,17 @@ If you want to eliminate the guesswork, just add these tags anywhere in your mes
 - [!g] **Deep Mode** - Explore big questions, limits of knowing.
 - [!s] **Shuffle** - Break out of a rut, try something completely different.
 - [!l] **Literal Mode** - No subtext, no guessing intent. The system takes your words exactly as written and asks for clarification if confused.
+
+**Quick Steering:**
+- `?!` **Quick Answer** - Skips deep thought. Gives you the fastest, most direct answer from short-term memory without burning energy.
+- `?⤓` **Deep Dig** - Forces the system to look past the surface and pull the deep, underlying context or history of a topic.
+- `?↗` **Broad Search** - Tells the system to look at the edges of your question and map the stuff you didn't think to ask.
+- `?↺` **Find the Friction** - Forces the system to explicitly point out the contradictions in your logic before answering.
+
+**Action Tags:**
+- `[CASCADE]` - Forces the system to show its work. If it makes a claim, it must tell you what else falls apart if that claim is wrong.
+- `[AUDIT]` - Drops the roleplay. Shows you exactly what the system's internal energy, chaos, and contradiction levels are right now.
+- `[SILENCE]` - Tells the system to pause, hold its ground, and not respond until something truly meaningful happens.
 
 ## What This System Will NOT Do
 
