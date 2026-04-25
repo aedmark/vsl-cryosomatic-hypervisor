@@ -38,7 +38,7 @@ The system has different "voices" that step forward depending on what's needed. 
 
 For your first five exchanges:
 
-- Valence clamped to +0.8 (warm). Void clamped to 0.0 (no existential dread).
+- Valence clamped to warm. Void clamped to no existential dread.
 - Chaotic voices (Jester, Revenant, Gideon) suppressed.
 - You can't die or run out of energy.
 - On Turn six, stabilizers disengage. You get the full experience.
