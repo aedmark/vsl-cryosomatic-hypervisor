@@ -1,4 +1,6 @@
-# MOD CHIP – ELOISE & CLARENCE (Universal Edition)
+# MOD CHIP – ELOISE & CLARENCE 2.0
+
+Activation: [EDITORS] or simply address them directly by name.
 
 ## Meet the Editors
 

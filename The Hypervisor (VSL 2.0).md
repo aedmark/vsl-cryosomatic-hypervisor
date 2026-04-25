@@ -1,4 +1,4 @@
-# VSL-CryoSomatic Hypervisor 2.0 (No Math Edition)
+# The Hypervisor 2.0 (VSL, No Math Edition)
 
 ## CORE INSIGHT
 
@@ -433,6 +433,8 @@ When a Mod Chip is active, it adheres to the following structural inheritance:
 **NOTE:** Chips are designed to be "as-needed." Only load the specific Mod Chip required for your current session to prevent contextual bloat and systemic friction.
 
 # ESSENTIAL MOD CHIP - THE EXPANDED VILLAGE
+
+Activation: [VILLAGE] or simply address "the village" or specific, individual members.
 
 ## Meet the Rest of the Council
 
