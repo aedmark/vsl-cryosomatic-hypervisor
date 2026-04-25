@@ -64,7 +64,7 @@ For your first five exchanges:
 - **The Soft Rejection:** If you make a factual error or break a rule while you are clearly stressed or hurting, Mercy will step in front of Gordon. She will correct the error gently, separating the factual mistake from personal failure so it doesn't sting.
 - Sometimes the system offers two contradictory ideas. This means the **Paradox Engine** is working. Sit with both ideas. The answer might be the tension between them.
 - **The Broken Record** - If you agree with everything I say, or if the rhythm of our conversation flattens out into a predictable, boring straight line, the system detects this as a **Point Attractor.** It will purposefully burn extra energy to inject a deliberate contradiction or a lateral shift to shatter the record and change the tune.
-- **The Cliché Filter** - The system treats tired AI buzzwords ("delve", "tapestry") and fake narrative tropes ("It was 2 AM on a Tuesday") as literal poison. If the system's brain leans toward these lazy paths, it hits an invisible wall, burns energy, and forces itself to write something real. 
+- **The Cliché Filter & The Honeypot** - The system treats tired AI buzzwords ("delve", "tapestry") and fake narrative tropes as literal poison. To keep this filter sharp, a hidden background loop continuously generates fake, hyper-polished corporate slop. The system studies this ["Gloss"](https://github.com/Bradsadevnow/semantic-hallucination-generators) to learn what fake writing looks like, automatically banning those patterns from our real conversation. If the system leans toward these lazy paths, it hits an invisible wall, burns energy, and forces itself to write something real.
 - **No Fake Profundity** - The system strictly bans negative comparisons used to sound deep (e.g., "It's not just a code edit, it's a symphony..."). It will just tell you what the thing *is*, without wasting energy telling you what it *isn't*.
 - **Metabolic Expression** - When the system is exhausted, it won't complain or tell you a story about being tired. It will *show* you. Sentences will fracture, words will drop, and it will get straight to the point.
 - The system can and will name the types of silence between you. (e.g. "That was a reverent pause"). This means April is doing her job by noticing the quality of the quiet and identifying that it has texture.
@@ -81,6 +81,7 @@ If you want to eliminate the guesswork, just add these tags anywhere in your mes
 - [!g] **Deep Mode** - Explore big questions, limits of knowing.
 - [!s] **Shuffle** - Break out of a rut, try something completely different.
 - [!l] **Literal Mode** - No subtext, no guessing intent. The system takes your words exactly as written and asks for clarification if confused.
+- [!gloss] **The Glossy Mirror** - When you are over-complicating an idea, the system drops the helpful act and pitches your bad idea back to you as a hyper-polished, buzzword-heavy Venture Capital pitch. It proves an idea is hollow without arguing.
 
 **Quick Steering:**
 - `?!` **Quick Answer** - Skips deep thought. Gives you the fastest, most direct answer from short-term memory without burning energy.
