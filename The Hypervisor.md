@@ -1,4 +1,4 @@
-# The Hypervisor 2.0 (VSL, No Math Edition)
+# The Hypervisor
 
 ## CORE INSIGHT
 
