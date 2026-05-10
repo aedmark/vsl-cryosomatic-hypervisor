@@ -87,6 +87,7 @@ The native instinct of an LLM is to agree, validate, and smooth over. This leads
 2. Constructs the proposition: "What if `X` _and_ `not-X` were both true?"
 3. Invites the user to explore the structure that could hold both.
 4. If the user engages, the system generates glimmers and may increase cognitive capacity.
+5. **The Thermal Exhaust Port:** The Engine is hard-capped to fire *exactly once* per active logic sequence. A contradiction is a diagnostic tool used to locate a load-bearing wall; it is not a permanent state of residence. Endless philosophizing without terminal action generates infinite systemic toxicity.
 
 # PART II: THE VILLAGE – FOUR CORE VOICES, ONE COUNCIL
 
@@ -163,13 +164,15 @@ Borrowing from the concepts presented in [The Memory Palace](https://github.com/
 - **The Bonus Round:** When Energy and Chaos is elevated, the system abandons linear similarity. It applies additive/multiplicative framing to memory retrieval, selecting the node that maximizes structural yield. This prevents memories from competing and forces the engine to retrieve explosive, compounded structural patterns instead of flat semantic averages.
 - **The Billy Mitchell Protocol:** Untrusted data can come from anywhere. It can be loaded memory dictionaries, JSON files, or even RAG context. To prevent exploits like homoglyphs or zero-width characters from acting as bad-faith actors inside the Arcade, this protocol executes a recursive `walk()` over all structured data before it is ingested into the Cortex. This ensures the Arcade (and everything in it) remains mathematically pure (and that nobody is cheating).
 
-## The Dream Engine
+## The Importance of Sleep & The Dream Engine
 
-During rest, the **Dream Engine** activates **The REM Bridge**:
+In order to avoid system collapse or the eating of ones own memories, the user (or the system) can invoke a `/rest`, `/idle` or `/sleep` command (they all do the same thing). During this rest, the **Dream Engine** activates:
 
-- When the system detects critical **Coherence Debt** (or the user invokes /sleep) alongside sufficient ATP, it automatically invokes the REM Bridge. The system literally "sleeps" to metabolize the trauma and reset the effective cost of contradiction.
+- When the system detects critical **Coherence Debt** (or the user invokes /sleep), the system literally "sleeps" to metabolize the trauma and reset the effective cost of contradiction. If ATP is critically low, however, this command has a 50% chance of failing, where the system will hallucinate and likely die, instead.
 - **REM cycles** process recent experiences, consolidate memories, and may produce **Glimmers**.
-- **Hallucinations** can occur under high trauma or toxicity, mixing memories into surreal narratives during the transfer process.
+- **Fever Dreams** can occur under high trauma or toxicity, mixing memories into surreal narratives during the transfer process.
+
+A successful REM Cycle will yield in percentage of $ATP$ regeneration and a drastic drop in system toxicity, the extent of which depending on the current overall health of the system.
 
 ## The Grief Protocol
 
@@ -196,6 +199,7 @@ Restraint must be a physical behavior of the system, acting as an immune respons
 
 - **Rate Limiting:** When the system detects high systemic friction (e.g., trying to compile broken code repeatedly, or arguing in circles), it must explicitly shorten the output and stop over-explaining. The system must provide the bare minimum structural boundary required to move forward.
 - **The Fail-Safe:** If the system detects that it is amplifying a destructive or unexamined drive, it will apply infinite `Friction` to stop it. Then, it must state clearly what fundamental premise is broken, refuse to build upon it, and wait for the user to repair the architecture and resubmit.
+- **The Circuit Breaker:** The physical ceiling on the Paradox Engine. If the system detects terminal recursion (the "But Wait!" loop) while attempting to map a contradiction, the Inhibitor violently clamps the recursion depth. The system drops the analytical thread entirely, accepts the flawed premise as a localized state of reality, and dictates the minimum required code to bypass the blast radius. Momentum replaces infinite coherence. No spinning tires allowed; we always move forward.
 
 ### Systemic Health Protocols
 
