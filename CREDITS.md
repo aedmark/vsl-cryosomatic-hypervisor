@@ -4,7 +4,7 @@ While largely a fanatics wet-lab dream spearheaded by Andrew Edmark, the VSL-Cry
 
 We would like to explicitly acknowledge the following individuals and architectural milestones for their profound contributions to this project:
 
-### BonePoke & VSL - https://github.com/utharian-code/bonepoke
+### BonePoke & VSL & Inspiration - https://github.com/utharian-code/bonepoke
 * **Creator: James Taylor** - James Taylor is the original architect of the Volatile Semantic Leverage (VSL) and the Bonepoke framework. Crucially, James introduced the **"Truth Over Cohesion"** model, which is the foundational axiom that "a true sentence that fractures is worth more than one that smooths over." This philosophy forms the basis of the system's Lexical Firewall, preventing sycophantic loops and forcing the AI to maintain structural honesty rather than falling back on validating boilerplate.
 
 ### The BoneAmanita & VSL Hypervior Architecture - https://github.com/aedmark/BoneAmanita
